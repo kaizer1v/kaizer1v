@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a **UX Designer** at **SAP Labs**, Bangalore
+- 🌱 I’m currently learning **Python**
+- 👯 I’m looking to collaborate on **Interaction Design, Web Apps, JS / Python**
+- 🤔 I’m looking for help with **Improving Python Skills**
+- 💬 Ask me about **Design, Product Management, Volunteering**
+- 📫 How to reach me: [Twitter](twitter.com/kaizer1v)
+
 <!--
 **kaizer1v/kaizer1v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
